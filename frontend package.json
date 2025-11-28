@@ -1,0 +1,6 @@
+{
+  "name": "voting-dapp",
+  "version": "1.0.0",
+  "scripts": { "dev": "react-scripts start", "build": "react-scripts build" },
+  "dependencies": { "react": "^18.0.0", "react-dom": "^18.0.0", "@kadena/react-components": "^0.1.0", "react-scripts": "5.0.0" }
+}
